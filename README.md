@@ -1,55 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e5d8,50:e8cfc0,100:d6aaa3&height=200&section=header&text=Ananya%20Raj%20Gupta&fontSize=44&fontColor=5c4033&fontAlignY=38&animation=fadeIn&desc=B.Tech%20CS%20%C2%B7%20MIT%20Manipal%20%C2%B7%20DSA%20%C2%B7%20Backend%20%C2%B7%20C%2B%2B%20%C2%B7%20Node.js&descSize=16&descAlignY=58&descColor=7a5a4d" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:f7a8c4,100:cdb4db&height=220&section=header&text=Ananya%20Raj%20Gupta&fontSize=44&fontColor=6b3a4f&fontAlignY=38&animation=twinkling&desc=%F0%9F%90%B0%20B.Tech%20CS%20%C2%B7%20MIT%20Manipal%20%C2%B7%20DSA%20%C2%B7%20Backend%20%C2%B7%20Generative%20AI&descSize=16&descAlignY=58&descColor=8a5a6e" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=9c6b5a&center=true&vCenter=true&width=600&lines=Computer+Science+undergrad+at+MIT+Manipal;Data+Structures+%C2%B7+Backend+Development+%C2%B7+Generative+AI;Open+to+internships+and+research+collaboration" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8a5a6e&center=true&vCenter=true&width=620&lines=hi+%F0%9F%90%B0+i'm+Ananya;Second-year+B.Tech+CS+student+at+MIT+Manipal;hopping+through+DSA+%C2%B7+Backend+%C2%B7+Generative+AI;headphones+on%2C+building+something+cozy+%F0%9F%8E%A7;open+to+internships+and+research+projects" alt="Typing animation" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8d6e63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyarajgupta)
-[![Email](https://img.shields.io/badge/Email-c08a82?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya48849@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b794c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyarajgupta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-f7a8c4?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananya_Apricot/)
+[![Email](https://img.shields.io/badge/Email-d98cab?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya48849@gmail.com)
+
+<br/>
+
+⋆｡°✩ 🐰 ✩°｡⋆
 
 </div>
 
 ---
 
-## About
+## 🐰 About
 
-I am a second-year Computer Science student focused on data structures and algorithms, backend development, generative AI, and CS fundamentals. I enjoy turning complex problems into simple, well-tested solutions.
+- Second-year Computer Science student focused on **data structures and algorithms**
+- Building **backend systems** and **generative AI** applications
+- Strong grounding in CS fundamentals: operating systems, databases, networks
+- I turn complex problems into simple, clean, well-tested solutions
 
-> **Currently:** building projects, solving DSA problems, and looking for research opportunities.
+> 🥕 **Currently:** building projects, solving DSA problems on [LeetCode](https://leetcode.com/u/Ananya_Apricot/), and looking for research opportunities.
 
-## Education
+<div align="center">⋆｡°✩ 🤍 ✩°｡⋆</div>
 
-**Manipal Institute of Technology (MIT), Manipal** · B.Tech in Computer Science · CGPA 9.6 / 10 · *2025 – 2029*
+## 🎀 Education
 
-Coursework: Data Structures & Algorithms · Computer Networks · Object-Oriented Programming · Data Analytics
+**Manipal Institute of Technology, Manipal**
+B.Tech in Computer Science · CGPA 9.6 / 10 · 2025 – 2029
 
-## Skills
+**Coursework:** Data Structures & Algorithms · Computer Networks · Object-Oriented Programming · Data Analytics
+
+<div align="center">⋆｡°✩ 🌷 ✩°｡⋆</div>
+
+## 🌸 Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,nodejs,mongodb,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,nodejs,mongodb,vite,vercel,git&theme=light" />
 
 </div>
 
-## Projects
+<div align="center">⋆｡°✩ ☁️ ✩°｡⋆</div>
 
-### [SkillSwap](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME)
+## 🥕 Projects
 
-A peer-to-peer platform that matches people by the skills they offer and the skills they want to learn, so they can exchange knowledge directly instead of paying for courses or tutoring.
+### [SkillSwap](https://github.com/ananya-apricot/skill_swap) · [Live Demo](https://skill-swap-sigma-nine.vercel.app)
+
+A peer-to-peer platform where people exchange skills instead of paying for courses. Users list what they can teach and what they want to learn, and the platform matches them on complementary skills.
 
 - Matches users on complementary skills: what one person teaches is what the other wants to learn
-- Removes the cost barrier to learning by replacing payment with skill exchange
+- Secure authentication with JWT
+- Separate AI service powered by Groq for AI-driven features
+- Frontend on Vercel, backend and AI service deployed as independent services
 
-`[Your tech stack, e.g. Node.js]` `[MongoDB]` `[React]`
+**Stack:** `Node.js` `MongoDB` `JWT` `Python` `Groq` `Vite`
 
-## Contact
+<div align="center">⋆｡°✩ 🐇 ✩°｡⋆</div>
 
-Email: **ananya48849@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ananyarajgupta)
+## 💌 Contact
+
+Email: **ananya48849@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ananyarajgupta) · [LeetCode](https://leetcode.com/u/Ananya_Apricot/)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e5d8,50:e8cfc0,100:d6aaa3&height=100&section=footer" width="100%" />
+<br/>
+
+*thanks for hopping by* 🐰🤍
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:f7a8c4,100:cdb4db&height=100&section=footer" width="100%" />
 
 </div>
