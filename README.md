@@ -4,13 +4,9 @@
 
 🐰 B.Tech CS · MIT Manipal · DSA · Backend · Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8a5a6e&center=true&vCenter=true&width=620&lines=hi+%F0%9F%90%B0+i'm+Ananya;Second-year+B.Tech+CS+student+at+MIT+Manipal;hopping+through+DSA+%C2%B7+Backend+%C2%B7+Generative+AI;headphones+on%2C+building+something+cozy+%F0%9F%8E%A7;open+to+internships+and+research+projects" alt="Typing animation" />
-
-<br/><br/>
+🎧 Headphones on, building something cozy · Open to internships and research projects
 
 [LinkedIn](https://www.linkedin.com/in/ananyarajgupta) &nbsp; · &nbsp; [LeetCode](https://leetcode.com/u/Ananya_Apricot/) &nbsp; · &nbsp; [Email](mailto:ananya48849@gmail.com)
-
-<br/>
 
 ⋆｡°✩ 🐰 ✩°｡⋆
 
