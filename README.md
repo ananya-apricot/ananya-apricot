@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:f7a8c4,100:cdb4db&height=220&section=header&text=Ananya%20Raj%20Gupta&fontSize=44&fontColor=6b3a4f&fontAlignY=38&animation=twinkling&desc=%F0%9F%90%B0%20B.Tech%20CS%20%C2%B7%20MIT%20Manipal%20%C2%B7%20DSA%20%C2%B7%20Backend%20%C2%B7%20Generative%20AI&descSize=16&descAlignY=58&descColor=8a5a6e" width="100%" />
+# Ananya Raj Gupta
+
+🐰 B.Tech CS · MIT Manipal · DSA · Backend · Generative AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8a5a6e&center=true&vCenter=true&width=620&lines=hi+%F0%9F%90%B0+i'm+Ananya;Second-year+B.Tech+CS+student+at+MIT+Manipal;hopping+through+DSA+%C2%B7+Backend+%C2%B7+Generative+AI;headphones+on%2C+building+something+cozy+%F0%9F%8E%A7;open+to+internships+and+research+projects" alt="Typing animation" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b794c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyarajgupta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-f7a8c4?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananya_Apricot/)
-[![Email](https://img.shields.io/badge/Email-d98cab?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya48849@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ananyarajgupta) &nbsp; · &nbsp; [LeetCode](https://leetcode.com/u/Ananya_Apricot/) &nbsp; · &nbsp; [Email](mailto:ananya48849@gmail.com)
 
 <br/>
 
@@ -65,7 +65,7 @@ A peer-to-peer platform where people exchange skills instead of paying for cours
 
 ## 💌 Contact
 
-Email: **ananya48849@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ananyarajgupta) · [LeetCode](https://leetcode.com/u/Ananya_Apricot/)
+Email: [ananya48849@gmail.com](mailto:ananya48849@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ananyarajgupta) · [LeetCode](https://leetcode.com/u/Ananya_Apricot/)
 
 <div align="center">
 
@@ -73,6 +73,5 @@ Email: **ananya48849@gmail.com** · [LinkedIn](https://www.linkedin.com/in/anany
 
 *thanks for hopping by* 🐰🤍
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:f7a8c4,100:cdb4db&height=100&section=footer" width="100%" />
 
 </div>
