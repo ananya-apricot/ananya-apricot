@@ -17,11 +17,11 @@
 ## 🐰 About
 
 - Second-year Computer Science student focused on **data structures and algorithms**
-- Building **backend systems** and **generative AI** applications
-- Strong grounding in CS fundamentals: operating systems, databases, networks
-- I turn complex problems into simple, clean, well-tested solutions
+- Building reliable and scalable **backend systems** applications
+- Strong grounding in CS fundamentals: object oriented programming, databases, computer networks
+- I like to turn complex problems into simple, clean, well-tested solutions
 
-> 🥕 **Currently:** building projects, solving DSA problems on [LeetCode](https://leetcode.com/u/Ananya_Apricot/), and looking for research opportunities.
+> 🥕 **Currently:** building projects, solving DSA problems on [LeetCode](https://leetcode.com/u/Ananya_Apricot/), and looking for internships and research opportunities.
 
 <div align="center">⋆｡°✩ 🤍 ✩°｡⋆</div>
 
@@ -30,7 +30,7 @@
 **Manipal Institute of Technology, Manipal**
 B.Tech in Computer Science · CGPA 9.6 / 10 · 2025 – 2029
 
-**Coursework:** Data Structures & Algorithms · Computer Networks · Object-Oriented Programming · Data Analytics
+**Coursework:** Data Structures & Algorithms · Computer Networks · Object-Oriented Programming · Data Analytics · Data Visualization
 
 <div align="center">⋆｡°✩ 🌷 ✩°｡⋆</div>
 
