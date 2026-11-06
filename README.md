@@ -46,6 +46,20 @@ B.Tech in Computer Science · CGPA 9.6 / 10 · 2025 – 2029
 
 ## 🥕 Projects
 
+### [PrereqGraph](https://github.com/ananya-apricot/PrereqGraph) · [Live Demo](https://prereqgraph.vercel.app)
+
+A learning platform where students take quizzes, explore prerequisite graphs, and receive a personalised learning path to a target concept.
+
+- Finds prerequisites using adjacency lists and DFS, orders them with Kahn’s topological sort, and detects cycles
+- Recalculates learning paths based on mastery, marking concepts to skip, revise, or take a quiz
+- Uses difficulty-weighted quiz scoring, individual mastery thresholds, and MongoDB attempt history
+- Secured with JWT authentication, bcrypt password hashing, admin-only graph management, and Zod validation
+- API tested with Jest and Supertest
+
+**Stack:** `Node.js` `Express` `MongoDB` `JWT`
+
+<div align="center">⋆｡°✩ 🌱 ✩°｡⋆</div>
+
 ### [SkillSwap](https://github.com/ananya-apricot/skill_swap) · [Live Demo](https://skill-swap-sigma-nine.vercel.app)
 
 A peer-to-peer platform where people exchange skills instead of paying for courses. Users list what they can teach and what they want to learn, and the platform matches them on complementary skills.
